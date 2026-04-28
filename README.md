@@ -1,2 +1,2 @@
 # java-script
-Variable and Data Types
+Variables and Data Types
